@@ -30,4 +30,4 @@ function binarySort($arr, $low, $high, $key)
 	if ($arr[$mid] < $key) return binarySort($arr, $mid+1, $high, $key);
 
 	return binarySort($arr, $low, $mid-1, $key);
-}
+} 
