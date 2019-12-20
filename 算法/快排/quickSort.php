@@ -1,28 +1,38 @@
 <?php
 
 //递归
-function quickSort($arr)
+function quickSort($array) 
 {
+	$len = count($array);
+
+	if ($len <= 1) 	 return $array;	
+
+	$key = $array[0];
 
 	$left_arr = array();
 	$right_arr = array();
 
-	$flag = $arr[0];
+	for ($cur = 1; $cur < $len; $cur++) {
 
-	$len = count($arr);
-	for ($i = 1; $i < $len; $i++) {
-
-		if ($arr[$i] < $flag) {
-			array_push($left_arr, $arr[$i]);
+		if ($array[$cur] < $key) {
+		
+			array_push($left_arr, $array[$cur]);
+		
 		} else {
-			array_push($right_arr, $)
+		
+			array_push($right_arr, $array[$cur]);
+		
 		}
 	}
-	$left_arr  = quickSort($left_arr);
-	$right_arr = quickSort($right_arr);
 
-	$retArr = array_merge($flag, $left_arr, $right_arr);
+	$left_arr  = quick_sort($left_arr);
+	$right_arr = quick_sort($right_arr);
+
+	$retArr = array_merge($left_arr, array($key), $right_arr);
+
+	return $retArr;
 }
+
 
 //非递归
 // function quickSort($arr)
