@@ -77,12 +77,17 @@ class Heap
 		return $retArr;
 	}
 }
+
+
 $test = new TestController();
 
 $arr = array(2, 5, 3, 1, 10, 4);
+// $arr = array(2, 1, 3);
 $len = count($arr);
 // $test->heapAdjustDown($arr, 0);
 // $test->heapAdjustUp($arr);
-$pop1 = $test->heapSort($arr, $len);
-// print_r($arr);
-// print_r($pop1);
+$pop1 = $test->heapSort($arr, 2);
+print_r($pop1);
+print_r($arr);
+
+
