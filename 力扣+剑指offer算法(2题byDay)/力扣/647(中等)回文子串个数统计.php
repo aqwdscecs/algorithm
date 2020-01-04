@@ -43,4 +43,23 @@ class Solution {
         }
     }
 
+    // //dp
+    // function countSubstrings($s) 
+    // {
+    //     $len = strlen($s);
+
+    //     if ($len <= 1) return $s;
+    //     $sum = 1;
+    //     $dp = [];
+    //     for($i = 1; $i < $len; $i++) {
+    //         $dp[$i][$i] = true;
+    //         $sum ++;
+    //         for ($j = 0; $j < $i; $j++) {
+    //             $dp[$i][$j] = $s[$i] == $s[$j] && $s[$i + 1] == $s[$j-1];
+    //             if ($dp[$i][$j]) $sum++;
+    //         }
+    //     }
+    //     return $sum;
+    // }
+
 }
