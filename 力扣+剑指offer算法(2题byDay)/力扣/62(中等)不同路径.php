@@ -31,8 +31,10 @@ class Solution {
       
         if ($m <= 0 || $n <= 0) return 0;
 
-        if ($m == 1 && $n == 1) return 1;
-        if ($m == 2 && $n == 2) return 2;
+        if ($m == 1 && $n == 1) {
+          $this->dp[$m][$n] = 1;
+          return $this->dp[$m][$n];
+        }
 
         if (isset($this->arr[$m][$n])) return $this->arr[$m][$n];
 
