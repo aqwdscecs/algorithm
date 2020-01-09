@@ -13,7 +13,7 @@ class Solution {
 		//行数为1直接返回
     	$len = strlen($s);
 		if ($len <= 1 || $len < $numRows || $numRows == 1) return $s;
-
+		
 		$curRows = 0;
 		$direDown = 0; // 方向
 		$rowCh = [];
