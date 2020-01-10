@@ -23,7 +23,7 @@ class Solution {
             if ( ($rev < intval($min/10) ) || 
                 ($rev == intval($min/10) && $pop == 8)) 
                 return 0;
-            
+
             $rev = $rev * 10 + $pop;
         }
         return $rev;
