@@ -28,12 +28,14 @@ function Convert($pRootOfTree)
     return $res;
 }
 
+//注意prev传引用 为了下层递归修改的prev值传回上层递归中
 function getSortList($cur, &$prev)
 {
     if ($cur == null) return null;
     
     getSortList($cur->left, $prev);
-    
+    //注意最左结点时 prev为空  
+    //之后每个递归都会把小于当前结点的值赋给prev
     $cur->left = $prev;
     
     if ($prev != null) {
