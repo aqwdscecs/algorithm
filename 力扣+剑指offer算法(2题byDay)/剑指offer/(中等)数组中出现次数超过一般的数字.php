@@ -9,7 +9,7 @@ function MoreThanHalfNum_Solution($numbers)
     $len = count($numbers);
     if ($len < 1) return $numbers;
     
-    $arrMap = [];
+    $arrMap = []; 
     
     for($i = 0; $i < $len; $i++) {
         $arrMap[$numbers[$i]] += 1;
