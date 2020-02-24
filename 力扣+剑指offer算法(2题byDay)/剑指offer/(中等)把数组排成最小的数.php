@@ -12,5 +12,5 @@ function PrintMinNumber($numbers)
  
 //知识点 
 // usort的使用
-// return 1 表示需要交换
+// return 1 表示需要交换  
 // return -1 表示不需要变换
