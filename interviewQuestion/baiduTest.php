@@ -1,18 +1,16 @@
 <?php
- 
+
 
 /*题目一*/
 // 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
 // 每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？
 // 注意：给定 n 是一个正整数。
-
 // 示例 1：
 // 输入： 2
 // 输出： 2
 // 解释： 有两种方法可以爬到楼顶。
 // 1.  1 阶 + 1 阶
 // 2.  2 阶
-
 // 示例 2：
 // 输入： 3
 // 输出： 3
@@ -21,7 +19,8 @@
 // 2.  1 阶 + 2 阶
 // 3.  2 阶 + 1 阶
 
-//用递归做出来但是复杂度是O(n^2) 面试官后面提示了用动态规划
+//递归实现
+// 面试官说也可以用动态规划实现，因为递归时间复杂度是O(n^2)
 function jumpKindCount($n)
 {
 	// if ($n <= 0) return -1;
@@ -36,11 +35,27 @@ function jumpCount($n)
 	return jumpCount($n-1) + jumpCount($n-2);
 }
 
- 
+//下面学习的O(n)复杂度的算法 
+function jumpFloor($number)
+{
+    // write code here
+    if($number <= 2) return $number;
+
+    $step1 = 1;
+    $step2 = 2;
+    
+    for ($i=3; $i <= $number; $number--) {
+        $stepSum = $step1 + $step2;
+        $step1 = $step2;
+        $step2 = $stepSum;
+    }
+    return $stepSum;
+}
+
+
 /*题目二*/
 // 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。
 // 你可以假设数组中无重复元素。
-
 // 示例 1:
 // 输入: [1,3,5,6], 5
 // 输出: 2
@@ -57,9 +72,10 @@ function jumpCount($n)
 // 输入: [1,3,5,6], 0
 // 输出: 0
 
-//题目没有做出来，left和right的边界值变化没有考虑好
+//二分法查找考察
+//边界值没有考虑好，没有做出来
 function binaryFind($arr, $target)
-{ 
+	{ 
 		$count = count($arr);
 
 		//为空直接插到首元素
@@ -75,15 +91,19 @@ function binaryFind($arr, $target)
 		
 		while ($left <= $right) {
 			$mid = $left + intval(($right - $left)/2);
+
 			if ($arr[$mid] < $target) {
-				$left = $mid;
+				$left = $mid+1;
 			}  else if ($arr[$mid] > $target) {
 				$right = $mid-1;
 			} else {
 				return $mid;
 			}
 		}
-		return $mid+1;
+		//定位数$arr[$mid]有可能大于target 也有可能小于target需要判断
+		//大于target  return = mid   
+		//小于target  return = mid + 1
+		if ($arr[$mid] < $target) return $mid+1;
+		return $mid;
 }
-
 
