@@ -9,7 +9,7 @@ function PrintMinNumber($numbers)
     });
     return implode("",$numbers);
 }
-
+ 
 //知识点 
 // usort的使用
 // return 1 表示需要交换
