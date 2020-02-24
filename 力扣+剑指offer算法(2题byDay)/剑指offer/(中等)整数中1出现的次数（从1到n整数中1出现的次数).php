@@ -22,3 +22,4 @@ function getNumberOfOne($number)
     }
     return $numCount;
 }
+
