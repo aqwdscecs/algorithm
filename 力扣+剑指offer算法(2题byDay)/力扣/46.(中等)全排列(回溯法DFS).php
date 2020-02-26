@@ -23,7 +23,6 @@ class Solution {
         }
 
         for ($i=$first; $i < $count; $i++) {
-            echo "i-->$i";echo "<br/>";
             $this->swap($nums[$i], $nums[$first]);
             $this->backtrack($count, $nums, $getArr, $first+1);
             $this->swap($nums[$i], $nums[$first]);
