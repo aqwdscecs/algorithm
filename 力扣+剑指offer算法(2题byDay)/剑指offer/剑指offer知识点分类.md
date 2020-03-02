@@ -14,7 +14,11 @@
 - (mid)find next node in LDR       // (中等)中序遍历中当前结点的下一结点
 	- LDR all node situation judge // 判断中序遍历结点的所有情况
 
+
+//两个类似题
+- (easy) 按行打印二叉树(广度优先)
 - (mid) 按之字形打印二叉树结点
+
 
 ##### 数字
 - 整数中1出现的次数(中等)

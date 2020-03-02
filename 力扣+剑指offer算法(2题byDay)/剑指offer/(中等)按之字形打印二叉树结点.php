@@ -1,5 +1,5 @@
 <?php
- 
+
 /*class TreeNode{
     var $val;
     var $left = NULL;
@@ -10,48 +10,38 @@
 }*/
 function MyPrint($pRoot)
 {
-    if($pRoot == NULL) return [];
+    // write code here
+    if ($pRoot == null) return array();
+
+    //每层的所有结点存储临时数组
+    $arrContainer = [$pRoot];
+    //返回结果
+    $result = [];
     
-    $current = 0;
-    $next    = 1;
-     
-    $stack[0] = array();
-    $stack[1] = array();
-    $resultQueue = array();
-     
-    array_push($stack[0], $pRoot);
-     
-    $i = 0;
-    $result = array();
-    $result[0]= array();
-     
-    while(!empty($stack[0]) || !empty($stack[1])){
-        $node = array_pop($stack[$current]);
-        array_push($result[$i], $node->val);
-         
-        //var_dump($resultQueue);echo "</br>";
-        if($current == 0){
-            if($node->left != NULL)
-                array_push($stack[$next], $node->left);
-            if($node->right != NULL)
-                array_push($stack[$next], $node->right);
-        }else{
-            if($node->right != NULL)
-                array_push($stack[$next], $node->right);
-            if($node->left != NULL)
-                array_push($stack[$next], $node->left);
-        }
-         
-        if(empty($stack[$current])){
-            $current = 1-$current;
-            $next    = 1-$next;
-            if(!empty($stack[0]) || !empty($stack[1])){
-                $i++;
-                $result[$i] = array();
+    $level = 0; //偶为左向右  奇为右向左
+
+    //层次遍历
+    while (!empty($arrContainer)) {
+    
+        $levelNode = [];
+        //层次中每个结点处理
+        while(!empty($arrContainer)) {
+            $node = array_pop($arrContainer);
+            $result[$level][] = $node->val;
+        
+            if (($level%2) == 0){
+                if ($node->left) $levelNode[] = $node->left;
+                if ($node->right)  $levelNode[] = $node->right;
+            
+            } else {
+                if ($node->right) $levelNode[] = $node->right;
+                if ($node->left)  $levelNode[] = $node->left;
             }
         }
-         
+        
+        $arrContainer = $levelNode;
+        $level++;
     }
     return $result;
-     
+    
 }
