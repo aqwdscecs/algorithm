@@ -14,6 +14,8 @@
 - (mid)find next node in LDR       // (中等)中序遍历中当前结点的下一结点
 	- LDR all node situation judge // 判断中序遍历结点的所有情况
 
+- (mid)serialize/unserialize binaryTree //序列化和反序列化 二叉树
+	- recurrence                        // 递归 
 
 //两个类似题
 - (easy) 按行打印二叉树(广度优先)
