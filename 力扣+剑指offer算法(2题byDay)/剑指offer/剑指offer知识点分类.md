@@ -7,6 +7,9 @@
 - (简单)判断是否平衡二叉树
 	- 递归
 
+- (mid)find next node in LDR       // (中等)中序遍历中当前结点的下一结点
+	- LDR all node situation judge // 判断中序遍历结点的所有情况
+
 
 ##### 数字
 - 整数中1出现的次数(中等)
