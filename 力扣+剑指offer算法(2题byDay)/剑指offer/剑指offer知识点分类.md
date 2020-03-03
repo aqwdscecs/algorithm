@@ -21,6 +21,9 @@
 - (easy) 按行打印二叉树(广度优先)
 - (mid) 按之字形打印二叉树结点
 
+- __(mid)LDR get Kth Node in sort binaryTree__ //(中等)搜索二叉树中找到第k小的结点
+	- recurrence							   //递归
+	- iteration            					   //迭代
 
 ##### 数字
 - 整数中1出现的次数(中等)
