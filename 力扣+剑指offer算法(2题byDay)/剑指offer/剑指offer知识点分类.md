@@ -9,10 +9,10 @@
 - (简单)判断是否平衡二叉树
 	- 递归
 
-- (easy)judge is or not mirror tree //(简单)判断是否为镜像树
+- (easy)judge is or not mirror tree     //(简单)判断是否为镜像树
 
-- (mid)find next node in LDR       // (中等)中序遍历中当前结点的下一结点
-	- LDR all node situation judge // 判断中序遍历结点的所有情况
+- (mid)find next node in LDR            // (中等)中序遍历中当前结点的下一结点
+	- LDR all node situation judge      // 判断中序遍历结点的所有情况
 
 - (mid)serialize/unserialize binaryTree //序列化和反序列化 二叉树
 	- recurrence                        // 递归 
@@ -53,3 +53,5 @@
 
 ##### 链表
 - 两个链表的公共结点(简单入门)
+- the entry of thr list ring               链表中环的入口结点(中等)
+	- mathmatical induction + fast&low pointer  数学归纳 + 快慢指针
