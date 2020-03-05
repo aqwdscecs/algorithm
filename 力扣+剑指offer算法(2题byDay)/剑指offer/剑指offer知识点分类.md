@@ -1,4 +1,7 @@
 ##### 树的递归遍历相关：
+- (mid) reConstruct BinaryTree     重建二叉树
+	- recurrence					递归
+
 - 二叉搜索树与双向链表(中等)
   __中序遍历__
 
@@ -25,6 +28,9 @@
 	- recurrence							   //递归
 	- iteration            					   //迭代
 
+
+
+
 ##### 数字
 - 整数中1出现的次数(中等)
 - 把数组排成最小的数(中等)
@@ -35,13 +41,21 @@
 	- 异或计算
 
 
+
+
 ##### 字符
 - 第一次只出现一次的字符(简单)
+
+
+
 
 
 ##### 重新做的题:
 - 整数中1出现的次数(中等) 
     暴力解出
+
+
+
 
 
 ##### 排序算法
@@ -51,7 +65,18 @@
 	- 二分查找变形
 
 
+
+
+
 ##### 链表
 - 两个链表的公共结点(简单入门)
 - the entry of thr list ring               链表中环的入口结点(中等)
 	- mathmatical induction + fast&low pointer  数学归纳 + 快慢指针
+
+
+
+
+
+
+#### It's worth review
+- (mid) reConstruct BinaryTree     重建二叉树
