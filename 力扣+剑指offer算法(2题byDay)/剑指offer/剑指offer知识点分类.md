@@ -74,7 +74,8 @@
 	- mathmatical induction + fast&low pointer  数学归纳 + 快慢指针
 
 
-
+##### 简单设计
+- implement a queue with two stack          两个栈实现队列
 
 
 
