@@ -31,6 +31,10 @@
 
 
 
+##### recurrence
+- get Nth Fibonacci number 
+- reverse linked   		//翻转链表
+
 ##### 数字
 - 整数中1出现的次数(中等)
 - 把数组排成最小的数(中等)
