@@ -83,5 +83,9 @@
 
 
 
+##### Mathematical deduction                 数学归纳
+- jumpFloor & jumpFloorII                    跳台阶&变态跳台阶
+
+
 #### It's worth review
 - (mid) reConstruct BinaryTree     重建二叉树
