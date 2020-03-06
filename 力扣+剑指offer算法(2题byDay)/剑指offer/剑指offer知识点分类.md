@@ -81,7 +81,7 @@
 
 ##### 简单设计
 - implement a queue with two stack          两个栈实现队列
-
+- implement pow                             实现pow
 
 
 ##### Mathematical deduction                 数学归纳
