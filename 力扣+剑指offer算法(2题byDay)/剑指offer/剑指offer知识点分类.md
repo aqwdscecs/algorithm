@@ -67,7 +67,8 @@
 	- 归并算法
 - 数字在排序数组中出现的次数(简单)
 	- 二分查找变形
-
+- odd Number set font of even Number                 奇数移动到偶数前面(中等)
+	- Insert Sort                                    插入排序
 
 
 
