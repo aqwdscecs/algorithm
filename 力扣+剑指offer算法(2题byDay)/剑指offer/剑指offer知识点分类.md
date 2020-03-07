@@ -75,10 +75,13 @@
 
 
 
+
 ##### 链表
 - 两个链表的公共结点(简单入门)
 - the entry of thr list ring               链表中环的入口结点(中等)
 	- mathmatical induction + fast&low pointer  数学归纳 + 快慢指针
+
+
 
 
 ##### 简单设计
@@ -86,8 +89,13 @@
 - implement pow                             实现pow
 
 
+
+
 ##### Mathematical deduction                 数学归纳
 - jumpFloor & jumpFloorII                    跳台阶&变态跳台阶
+- matrix overlay                             矩阵覆盖
+
+
 
 
 #### It's worth review
