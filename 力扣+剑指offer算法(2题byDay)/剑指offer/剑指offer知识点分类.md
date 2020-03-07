@@ -94,7 +94,7 @@
 ##### Mathematical deduction                 数学归纳
 - jumpFloor & jumpFloorII                    跳台阶&变态跳台阶
 - matrix overlay                             矩阵覆盖
-
+- sum of 1+2+3+...+n
 
 
 
