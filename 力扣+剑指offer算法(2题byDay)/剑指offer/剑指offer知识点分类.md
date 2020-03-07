@@ -43,7 +43,9 @@
 	- 思想很重要！
 - (简单)数字中只出现一次的数字
 	- 异或计算
-
+- (easy)count 1 appears in binary     二进制中1的个数
+	- & 1                            
+	- n=n&(n-1)  ----> 0x7fffffff 
 
 
 
