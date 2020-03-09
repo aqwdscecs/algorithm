@@ -1,3 +1,8 @@
+####  动态规划
+- 剪绳子
+
+
+
 ##### 树的递归遍历相关：
 - (mid) reConstruct BinaryTree     重建二叉树
 	- recurrence					递归
@@ -101,3 +106,4 @@
 
 #### It's worth review
 - (mid) reConstruct BinaryTree     重建二叉树
+
