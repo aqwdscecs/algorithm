@@ -105,9 +105,10 @@
 
 
 #### It's worth review
-- (mid) reConstruct BinaryTree     重建二叉树
+- (mid) reConstruct BinaryTree     		      重建二叉树
 
 
 
-##### backtracking
-- robor range of motion 机器人的运动范围
+##### backtracking							
+- robor range of motion 				      机器人的运动范围
+- (mid)path in matrix 						  矩阵中的路径
