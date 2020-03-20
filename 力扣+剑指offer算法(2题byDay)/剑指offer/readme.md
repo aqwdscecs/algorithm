@@ -20,7 +20,7 @@
 	- LDR all node situation judge判断中序遍历结点的所有情况
 - [(mid)serialize/unserialize binaryTree序列化和反序列化 二叉树]()
 	- recurrence递归
-	 
+
 **两个类似题**
 - [(easy) 按行打印二叉树(广度优先)]()
 - [(mid) 按之字形打印二叉树结点]()
@@ -32,7 +32,7 @@
 - [get Nth Fibonacci number ]()
 - [reverse linked翻转链表]()
 
-#### 数字]()
+#### 数字
 - [整数中1出现的次数(中等)]()
 - [把数组排成最小的数(中等)]()
 	- usort(array, function(){})使用]()
@@ -80,4 +80,4 @@
 
 #### backtracking							
 - [robor range of motion机器人的运动范围]()
-- [(mid)path in matrix矩阵中的路径]()]()
+- [(mid)path in matrix矩阵中的路径]()
