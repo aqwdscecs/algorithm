@@ -1,17 +1,15 @@
 ####  动态规划
-- [剪绳子][1]
-- [maxInWindows滑动窗口的最大值][2]
-	- dequeue双向队列
-	- dp动态规划
+- [剪绳子]()
+- [maxInWindows                   滑动窗口的最大值]()
+	- dequeue 					 双向队列
+	- dp 						 动态规划
 
-[1]:(https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3%2B%E5%89%91%E6%8C%87offer%E7%AE%97%E6%B3%95(2%E9%A2%98byDay)/%E5%89%91%E6%8C%87offer/(%E4%B8%AD%E7%AD%89)%E5%89%AA%E7%BB%B3%E5%AD%90(%E8%B4%AA%E5%A9%AA%26%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92).php)
-[2]:(https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3%2B%E5%89%91%E6%8C%87offer%E7%AE%97%E6%B3%95(2%E9%A2%98byDay)/%E5%89%91%E6%8C%87offer/(%E4%B8%AD%E7%AD%89)%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.php)
 
-##### 树的递归遍历相关：
+#### 树的递归遍历相关：
 - [(mid) reConstruct BinaryTree     重建二叉树]()
 	- recurrence					递归
 - [二叉搜索树与双向链表(中等)]()
-  __中序遍历__
+  - 中序遍历
 - [二叉树深度(简单)]()
 	- 递归
 	- 迭代
@@ -21,7 +19,8 @@
 - [(mid)find next node in LDR(中等)中序遍历中当前结点的下一结点]()
 	- LDR all node situation judge判断中序遍历结点的所有情况
 - [(mid)serialize/unserialize binaryTree序列化和反序列化 二叉树]()
-	- recurrence递归 
+	- recurrence递归
+	 
 **两个类似题**
 - [(easy) 按行打印二叉树(广度优先)]()
 - [(mid) 按之字形打印二叉树结点]()
@@ -29,11 +28,11 @@
 	- recurrence递归
 	- iteration迭代
 
-##### recurrence
+#### recurrence
 - [get Nth Fibonacci number ]()
 - [reverse linked翻转链表]()
 
-##### 数字]()
+#### 数字]()
 - [整数中1出现的次数(中等)]()
 - [把数组排成最小的数(中等)]()
 	- usort(array, function(){})使用]()
@@ -45,14 +44,14 @@
 	- & 1                            
 	- n=n&(n-1)  ----> 0x7fffffff 
 
-##### 字符
+#### 字符
 - [第一次只出现一次的字符(简单)]()
 
-##### 重新做的题:
+#### 重新做的题:
 - [整数中1出现的次数(中等) ]()
     暴力解出
 
-##### 排序算法
+#### 排序算法
 - [数组中的逆序对(中等)]()
 	- 归并算法
 - [数字在排序数组中出现的次数(简单)]()
@@ -60,18 +59,18 @@
 - [odd Number set font of even Number奇数移动到偶数前面(中等)]()
 	- Insert Sort插入排序
 
-##### 链表
+#### 链表
 - [两个链表的公共结点(简单入门)]()
 - [the entry of thr list ring链表中环的入口结点(中等)]()
 	- mathmatical induction + fast&low pointer  数学归纳 + 快慢指针
 - [deleteDuplication删除重复结点(中等)]()
 	- recurrence递归
 
-##### 简单设计
+#### 简单设计
 - [implement a queue with two stack 两个栈实现队列]()
 - [implement pow实现pow]()
 
-##### Mathematical deduction数学归纳
+#### Mathematical deduction数学归纳
 - [jumpFloor & jumpFloorII跳台阶&变态跳台阶]()
 - [matrix overlay矩阵覆盖]()
 - [sum of 1+2+3+...+n]()
@@ -79,6 +78,6 @@
 #### It's worth review
 - [(mid) reConstruct BinaryTree重建二叉树]()
 
-##### backtracking							
+#### backtracking							
 - [robor range of motion机器人的运动范围]()
 - [(mid)path in matrix矩阵中的路径]()]()
