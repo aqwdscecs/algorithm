@@ -1,11 +1,11 @@
 ####  动态规划
 - [剪绳子][1]
+- [maxInWindows滑动窗口的最大值][2]
+	- dequeue双向队列
+	- dp动态规划
 
 [1]:(https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3%2B%E5%89%91%E6%8C%87offer%E7%AE%97%E6%B3%95(2%E9%A2%98byDay)/%E5%89%91%E6%8C%87offer/(%E4%B8%AD%E7%AD%89)%E5%89%AA%E7%BB%B3%E5%AD%90(%E8%B4%AA%E5%A9%AA%26%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92).php)
-- [maxInWindows                   滑动窗口的最大值]()
-	- dequeue 					 双向队列
-	- dp 						 动态规划]
-
+[2]:(https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3%2B%E5%89%91%E6%8C%87offer%E7%AE%97%E6%B3%95(2%E9%A2%98byDay)/%E5%89%91%E6%8C%87offer/(%E4%B8%AD%E7%AD%89)%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.php)
 
 ##### 树的递归遍历相关：
 - [(mid) reConstruct BinaryTree     重建二叉树]()
