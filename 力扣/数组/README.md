@@ -2,8 +2,10 @@
 
 ### [原地操作数组](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84)
 __在线性时间复杂度内进行数组的交换&旋转__
+- __[283.简单_移动零](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/283.%E7%AE%80%E5%8D%95_%E7%A7%BB%E5%8A%A8%E9%9B%B6)__
+- __[448.简单_查找数组中消失的所有数字]__()
 - [189.简单_旋转数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/189.%E7%AE%80%E5%8D%95_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.php)
-- __[283.简单_移动零](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/283.%E7%AE%80%E5%8D%95_%E7%A7%BB%E5%8A%A8%E9%9B%B6)(推荐)__
+
 
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
@@ -25,3 +27,6 @@ __多数元素：一个数组中某个元素值出现输入元素个数一半(�
 __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
 
+
+[485.简单_最大连续1的个数]()
+[217.简单_存在重复元素]()
