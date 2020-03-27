@@ -10,9 +10,9 @@ __在线性时间复杂度内进行数组的交换&旋转__
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
 - [11.简单_盛水最多的容器](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88/11.%E7%AE%80%E5%8D%95_%E7%9B%9B%E6%B0%B4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%B9%E5%99%A8.php)
-- [26.简单_删除排序数组中的重复项]()
-- [27.简单_移除元素]()
-- [88.简单_合并两个有序数组]()(worth review)
+- [26.简单_删除排序数组中的重复项](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88/26.%E7%AE%80%E5%8D%95_%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.php)
+- [27.简单_移除元素](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88/27.%E7%AE%80%E5%8D%95_%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.php)
+- [88.简单_合并两个有序数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88/88.%E7%AE%80%E5%8D%95_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.php)(worth review)
 - [167.简单_两数之和II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88/167.%E7%AE%80%E5%8D%95_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8CII.php)
 
 ### [二分查找](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
@@ -26,23 +26,23 @@ __多数元素：一个数组中某个元素值出现输入元素个数一半(�
 2. 如果候选人是maj , 则maj 会支持自己，其他候选人会反对，同样因为maj 票数超过一半，所以maj 一定会成功当选
 - [169.简单_多数元素](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%91%A9%E5%B0%94%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95/169.%E7%AE%80%E5%8D%95_%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.php)
 
-### [哈希Map]()
+### [哈希Map](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap)
 __设置hashMap找对应元素  达到O(1)的快速查找__
-- [1.简单_两数之和]()
+- [1.简单_两数之和](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap/1.%E7%AE%80%E5%8D%95_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.php)
 
-### [滑动窗口]()
+### [滑动窗口](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 __在一定范围内的数组最优解__
-- [643. 简单_子数组最大平均数 I]()
+- [643. 简单_子数组最大平均数 I](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/643.%20%E7%AE%80%E5%8D%95_%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.php)
 
-### [动态规划]()
+### [动态规划](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 __数组中用动态规划解决问题__
-- __[53.简单_最大子序和]()__(worth review)
+- __[53.简单_最大子序和](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/53.%E7%AE%80%E5%8D%95_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.php)__(worth review)
 ### [编程之美](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E)
 __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
 
 
 #### [其他简单题](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98)
-- [66.简单_加一]()
+- [66.简单_加一](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/66.%E7%AE%80%E5%8D%95_%E5%8A%A0%E4%B8%80.php)
 - [485.简单_最大连续1的个数](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/485.%E7%AE%80%E5%8D%95_%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.php)
 - [217.简单_存在重复元素](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/217.%E7%AE%80%E5%8D%95_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.php)
