@@ -18,7 +18,8 @@
 // 链接：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
-
+//时空复杂度O(n) O(n)
+//HashMap
 class Solution {
 
     /**
@@ -50,5 +51,36 @@ class Solution {
             $index++;
         }
         return $newLen;
+    }
+}
+
+
+//O(n) O(1)算法
+//双指针 一个指向当前位置   一个指向下一位置   如果两个值相等(重复数字)  指向下一位置的指针++
+//          否则 nums[当前位置+1] = nums[next]  当前位置++ 下一位置++
+//最后return 当前位置+1 
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return Integer
+     */
+    function removeDuplicates(&$nums) {
+        $len = count($nums);
+        if ($len <= 1) return $len;
+
+        $curIndex = 0;
+        $nextIndex = 1;
+
+        while($nextIndex < $len) {
+            if ($nums[$curIndex] == $nums[$nextIndex]) {
+                $nextIndex++;
+            } else {
+                $nums[$curIndex+1] = $nums[$nextIndex];
+                $curIndex++;
+                $nextIndex++;
+            }
+        }
+        return $curIndex+1;
     }
 }
