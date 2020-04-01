@@ -37,9 +37,12 @@ __在一定范围内的数组最优解__
 ### [动态规划](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 __数组中用动态规划解决问题__
 - __[53.简单_最大子序和](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/53.%E7%AE%80%E5%8D%95_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.php)__(worth review)
+
+
 ### [编程之美](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E)
 __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
+- [面试题 17.04. 简单_消失的数字]()
 
 
 #### [其他简单题](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98)
@@ -47,3 +50,4 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [485.简单_最大连续1的个数](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/485.%E7%AE%80%E5%8D%95_%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.php)
 - [217.简单_存在重复元素](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/217.%E7%AE%80%E5%8D%95_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.php)
 - [566. 简单_重塑矩阵](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/566.%20%E7%AE%80%E5%8D%95_%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5.php)
+- [面试题 10.01. 简单_合并排序的数组]()
