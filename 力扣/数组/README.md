@@ -42,6 +42,7 @@ __数组中用动态规划解决问题__
 ### [编程之美](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E)
 __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
+- [628.简单_三个数的最大乘积]()
 - [面试题 17.04. 简单_消失的数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.04.%20%E7%AE%80%E5%8D%95_%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.php)
 
 
