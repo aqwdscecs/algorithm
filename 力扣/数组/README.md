@@ -5,7 +5,7 @@ __在线性时间复杂度内进行数组的交换&旋转__
 - [189.简单_旋转数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/189.%E7%AE%80%E5%8D%95_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.php)
 - __[283.简单_移动零](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/283.%E7%AE%80%E5%8D%95_%E7%A7%BB%E5%8A%A8%E9%9B%B6)__
 - __[448.简单_查找数组中消失的所有数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/448.%E7%AE%80%E5%8D%95_%E6%9F%A5%E6%89%BE%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%89%80%E6%9C%89%E6%95%B0%E5%AD%97.php)__
-- __[665. 简单_非递减数列]__()
+- __[665. 简单_非递减数列]__(https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/665.%20%E7%AE%80%E5%8D%95_%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.php)
 
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
@@ -42,7 +42,7 @@ __数组中用动态规划解决问题__
 ### [编程之美](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E)
 __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
-- [628.简单_三个数的最大乘积]()
+- [628.简单_三个数的最大乘积](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/628.%E7%AE%80%E5%8D%95_%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.php)
 - [面试题 17.04. 简单_消失的数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.04.%20%E7%AE%80%E5%8D%95_%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.php)
 
 
@@ -53,4 +53,4 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [566. 简单_重塑矩阵](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/566.%20%E7%AE%80%E5%8D%95_%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5.php)
 - [面试题 10.01. 简单_合并排序的数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.01.%20%E7%AE%80%E5%8D%95_%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.php)
 - [605. 简单_种花问题](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/605.%20%E7%AE%80%E5%8D%95_%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.php)
-- [661. 简单_图片平滑器]()
+- [661. 简单_图片平滑器](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/661.%20%E7%AE%80%E5%8D%95_%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8.php)
