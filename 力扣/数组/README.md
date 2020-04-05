@@ -6,6 +6,7 @@ __在线性时间复杂度内进行数组的交换&旋转__
 - __[283.简单_移动零](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/283.%E7%AE%80%E5%8D%95_%E7%A7%BB%E5%8A%A8%E9%9B%B6)__
 - __[448.简单_查找数组中消失的所有数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/448.%E7%AE%80%E5%8D%95_%E6%9F%A5%E6%89%BE%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%89%80%E6%9C%89%E6%95%B0%E5%AD%97.php)__
 - __[665. 简单_非递减数列]__(https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/665.%20%E7%AE%80%E5%8D%95_%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.php)
+- [717. 简单_1比特与2比特字符]()
 
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
@@ -33,6 +34,7 @@ __设置hashMap找对应元素  达到O(1)的快速查找__
 ### [滑动窗口](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 __在一定范围内的数组最优解__
 - [643. 简单_子数组最大平均数 I](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/643.%20%E7%AE%80%E5%8D%95_%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.php)
+- [697. 简单_数组的度]()
 
 ### [动态规划](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 __数组中用动态规划解决问题__
@@ -54,3 +56,4 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [面试题 10.01. 简单_合并排序的数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.01.%20%E7%AE%80%E5%8D%95_%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.php)
 - [605. 简单_种花问题](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/605.%20%E7%AE%80%E5%8D%95_%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.php)
 - [661. 简单_图片平滑器](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/661.%20%E7%AE%80%E5%8D%95_%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8.php)
+- [674. 简单_最长连续递增序列]()
