@@ -57,3 +57,5 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [605. 简单_种花问题](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/605.%20%E7%AE%80%E5%8D%95_%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.php)
 - [661. 简单_图片平滑器](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/661.%20%E7%AE%80%E5%8D%95_%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8.php)
 - [674. 简单_最长连续递增序列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/674.%20%E7%AE%80%E5%8D%95_%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.php)
+- [724. 寻找数组的中心索引]()
+- [747. 至少是其他数字两倍的最大数]()
