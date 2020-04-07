@@ -7,6 +7,7 @@ __在线性时间复杂度内进行数组的交换&旋转__
 - __[448.简单_查找数组中消失的所有数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/448.%E7%AE%80%E5%8D%95_%E6%9F%A5%E6%89%BE%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%89%80%E6%9C%89%E6%95%B0%E5%AD%97.php)__
 - __[665. 简单_非递减数列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/665.%20%E7%AE%80%E5%8D%95_%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.php)__
 - [717. 简单_1比特与2比特字符](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/717.%20%E7%AE%80%E5%8D%95_1%E6%AF%94%E7%89%B9%E4%B8%8E2%E6%AF%94%E7%89%B9%E5%AD%97%E7%AC%A6.php)
+- [905. 简单_按奇偶排序数组]()
 
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
@@ -59,3 +60,4 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [674. 简单_最长连续递增序列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/674.%20%E7%AE%80%E5%8D%95_%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.php)
 - [724. 寻找数组的中心索引](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/724.%20%E7%AE%80%E5%8D%95_%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95.php)
 - [747. 至少是其他数字两倍的最大数](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/747.%20%E7%AE%80%E5%8D%95_%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0.php)
+- [832. 简单_翻转图像]()
