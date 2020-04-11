@@ -1,3 +1,4 @@
 <?php
 
-print(3%4);
+
+var_dump(3%1);
