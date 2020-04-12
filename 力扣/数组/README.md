@@ -8,7 +8,7 @@ __在线性时间复杂度内进行数组的交换&旋转__
 - __[665. 简单_非递减数列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/665.%20%E7%AE%80%E5%8D%95_%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.php)__
 - [717. 简单_1比特与2比特字符](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/717.%20%E7%AE%80%E5%8D%95_1%E6%AF%94%E7%89%B9%E4%B8%8E2%E6%AF%94%E7%89%B9%E5%AD%97%E7%AC%A6.php)
 - [832. 简单_翻转图像](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/832.%20%E7%AE%80%E5%8D%95_%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F.php)
-- [896. 简单_单调数列]()
+- [896. 简单_单调数列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/896.%20%E7%AE%80%E5%8D%95_%E5%8D%95%E8%B0%83%E6%95%B0%E5%88%97.php)
 - [905. 简单_按奇偶排序数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/905.%20%E7%AE%80%E5%8D%95_%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.php)
 - [922. 简单_按奇偶排序数组 II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/922.%20%E7%AE%80%E5%8D%95_%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.php)
 
