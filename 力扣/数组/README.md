@@ -8,8 +8,9 @@ __在线性时间复杂度内进行数组的交换&旋转__
 - __[665. 简单_非递减数列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/665.%20%E7%AE%80%E5%8D%95_%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.php)__
 - [717. 简单_1比特与2比特字符](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/717.%20%E7%AE%80%E5%8D%95_1%E6%AF%94%E7%89%B9%E4%B8%8E2%E6%AF%94%E7%89%B9%E5%AD%97%E7%AC%A6.php)
 - [832. 简单_翻转图像](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/832.%20%E7%AE%80%E5%8D%95_%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F.php)
+- [896. 简单_单调数列]()
 - [905. 简单_按奇偶排序数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/905.%20%E7%AE%80%E5%8D%95_%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.php)
-- [922. 简单_按奇偶排序数组 II]()
+- [922. 简单_按奇偶排序数组 II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/922.%20%E7%AE%80%E5%8D%95_%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.php)
 
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
@@ -49,7 +50,7 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
 - [628.简单_三个数的最大乘积](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/628.%E7%AE%80%E5%8D%95_%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.php)
 - [面试题 17.04. 简单_消失的数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.04.%20%E7%AE%80%E5%8D%95_%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.php)
-- __[914.简单_卡牌分组]()__(worth review)
+- __[914.简单_卡牌分组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/914.%E7%AE%80%E5%8D%95_%E5%8D%A1%E7%89%8C%E5%88%86%E7%BB%84.php)__(worth review)
 
 #### [其他简单题](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98)
 - [66.简单_加一](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%85%B6%E4%BB%96%E7%AE%80%E5%8D%95%E9%A2%98/66.%E7%AE%80%E5%8D%95_%E5%8A%A0%E4%B8%80.php)
