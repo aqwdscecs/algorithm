@@ -1,4 +1,9 @@
 <?php
+declare(strict_types=1);
+function sum($a, $b): int {
+    return $a + $b;
+}
 
-
-var_dump(3%1);
+// Note that a float will be returned.
+var_dump(sum(1.2, 2.3));
+?>
