@@ -50,6 +50,7 @@ __用优美的代码逻辑解决问题,感受代码的魅力__
 - [119.简单_杨辉三角II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/119.%E7%AE%80%E5%8D%95_%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.php)
 - [628.简单_三个数的最大乘积](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/628.%E7%AE%80%E5%8D%95_%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.php)
 - [面试题 17.04. 简单_消失的数字](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.04.%20%E7%AE%80%E5%8D%95_%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.php)
+- [867.转置矩阵]()
 - __[888. 简单_公平的糖果交换](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/888.%20%E7%AE%80%E5%8D%95_%E5%85%AC%E5%B9%B3%E7%9A%84%E7%B3%96%E6%9E%9C%E4%BA%A4%E6%8D%A2.php)__
 - __[914.简单_卡牌分组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E/914.%E7%AE%80%E5%8D%95_%E5%8D%A1%E7%89%8C%E5%88%86%E7%BB%84.php)__(worth review)
 
