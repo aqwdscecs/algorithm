@@ -36,6 +36,7 @@ __设置hashMap找对应元素  达到O(1)的快速查找__
 - [1.简单_两数之和](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap/1.%E7%AE%80%E5%8D%95_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.php)
 - [532.简单_数组中的K-diff数对](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap/532.%E7%AE%80%E5%8D%95_%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84K-diff%E6%95%B0%E5%AF%B9.php)
 - [1010. 简单__总持续时间可被 60 整除的歌曲.php](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap/1010.%20%E7%AE%80%E5%8D%95__%E6%80%BB%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B4%E5%8F%AF%E8%A2%AB%2060%20%E6%95%B4%E9%99%A4%E7%9A%84%E6%AD%8C%E6%9B%B2.php)
+- [1128. 简单_等价多米诺骨牌对的数量.php](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap/1128.%20%E7%AE%80%E5%8D%95_%E7%AD%89%E4%BB%B7%E5%A4%9A%E7%B1%B3%E8%AF%BA%E9%AA%A8%E7%89%8C%E5%AF%B9%E7%9A%84%E6%95%B0%E9%87%8F.php)
 - [1346. 简单_检查整数及其两倍数是否存在.php](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%93%88%E5%B8%8CMap/1346.%20%E7%AE%80%E5%8D%95_%E6%A3%80%E6%9F%A5%E6%95%B4%E6%95%B0%E5%8F%8A%E5%85%B6%E4%B8%A4%E5%80%8D%E6%95%B0%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8.php)
 
 ### [滑动窗口](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
