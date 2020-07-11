@@ -1,5 +1,9 @@
 ## 目录：
 
+### [面试必刷]
+- [\*\*\*剑指 Offer 29. 简单__顺时针打印矩阵.php]()
+- [169.简单_多数元素](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E6%91%A9%E5%B0%94%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95/169.%E7%AE%80%E5%8D%95_%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.php)
+
 ### [原地操作数组](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84)
 __在线性时间复杂度内进行数组的交换&旋转__
 - [189.简单_旋转数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/189.%E7%AE%80%E5%8D%95_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.php)
@@ -11,7 +15,7 @@ __在线性时间复杂度内进行数组的交换&旋转__
 - [896. 简单_单调数列](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/896.%20%E7%AE%80%E5%8D%95_%E5%8D%95%E8%B0%83%E6%95%B0%E5%88%97.php)
 - [905. 简单_按奇偶排序数组](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/905.%20%E7%AE%80%E5%8D%95_%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.php)
 - [922. 简单_按奇偶排序数组 II](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8E%9F%E5%9C%B0%E6%93%8D%E4%BD%9C%E6%95%B0%E7%BB%84/922.%20%E7%AE%80%E5%8D%95_%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.php)
-
+- [剑指 Offer 29. 简单__顺时针打印矩阵.php]()
 ### [双指针类型题目](https://github.com/wuye251/algorithm/tree/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88)
 __释义：两个边界限制，如果当前res > target  将两个指针中较大元素值更新，找更小值 以达到更接近 target的目的__
 - [11.简单_盛水最多的容器](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E6%95%B0%E7%BB%84/%E5%8F%8C%E6%8C%87%E9%92%88/11.%E7%AE%80%E5%8D%95_%E7%9B%9B%E6%B0%B4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%B9%E5%99%A8.php)
