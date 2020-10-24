@@ -15,3 +15,6 @@
 ## 回溯+剪枝(康康)
 - [22.括号生成(dfs+剪枝)](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2020/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.php)
 - [39.组合综合(dfs+剪枝)](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2020/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.php)
+
+## 有序查找
+- [33. 搜索旋转排序数组(二分法)]()
