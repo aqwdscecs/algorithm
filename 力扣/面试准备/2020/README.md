@@ -18,3 +18,6 @@
 
 ## 有序查找
 - [33. 搜索旋转排序数组(二分法)](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2020/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.php)
+
+## 数学运算
+- [136. Single Number(异或本身为0  任何数异或0 还是其本身)]()
