@@ -58,5 +58,27 @@ class Solution {
 	递归翻转
 	时空复杂度
 */
+class Solution {
 
-	
+    /**
+     * @param ListNode $head
+     * @return ListNode
+     */
+    function reverseList($head) {
+        if ($head->next === null) {
+            return $head;
+        }
+
+        $p = $this->reverseList($head->next);
+        $head->next->next = $head;
+        $head->next = null;
+
+        return $p;
+    }
+}
+
+
+
+
+
+
