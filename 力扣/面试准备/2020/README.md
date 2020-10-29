@@ -23,3 +23,4 @@
 
 ## 数学运算
 - [136. Single Number(异或本身为0  任何数异或0 还是其本身)](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2020/136.%20Single%20Number.php)
+- [160. Intersection of Two Linked Lists.php(走过你来时的路)]()
