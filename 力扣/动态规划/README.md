@@ -21,3 +21,4 @@
 - [面试题17.16.(简单)按摩师](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E9%9D%A2%E8%AF%95%E9%A2%9817.16.%E7%AE%80%E5%8D%95_%E6%8C%89%E6%91%A9%E5%B8%88.php)
 - __[面试题17.16.(简单)连续最大和__](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E9%9D%A2%E8%AF%95%E9%A2%9817.16.%E7%AE%80%E5%8D%95_%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%88%97%E6%9C%80%E5%A4%A7%E5%92%8C.php)
 - [面试题08.01.三步问题](https://github.com/wuye251/algorithm/blob/master/%E5%8A%9B%E6%89%A3/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E9%9D%A2%E8%AF%95%E9%A2%9808.01.%E7%AE%80%E5%8D%95_%E4%B8%89%E6%AD%A5%E9%97%AE%E9%A2%98.php)
+- [64. 最小路径和.php(入门)]()
