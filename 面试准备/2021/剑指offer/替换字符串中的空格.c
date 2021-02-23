@@ -19,26 +19,31 @@
 	时空复杂度 O(n) O(1)
 */
 char* replaceSpace(char* s){
-    int len = sizeof(s);
-    char *str = (char *)malloc(len*sizeof(char *));
 
-    int count = 0;
-    for(int i=0; i<len; i++) {
-    	if (s[i] == ' ') count++;
+    int whiteSpace = 0, len = 0;
+    for(int i=0; s[i] != '\0'; i++) {
+    	if (s[i] == ' ') {
+            whiteSpace++;
+        }
+        len++;
     }
 
-    if (count == 0) return s;
+    if (whiteSpace == 0) return s;
 
-	int newLen = len + 2*count;
-	for(int i=len-1; i>=0; i--) {
-		if (s[i] == ' ') {
-			s[(newLen--)-1] = '%';
-			s[(newLen--)-1] = '2';
-			s[(newLen--)-1] = '0';
-		} else {
-			s[newLen-1] = s[i];
-		}
-	}   
 
-	return s;
+
+    s = (char* )realloc(s, sizeof(char) * (len  + 2 * whiteSpace + 1));
+    s[len + 2 * whiteSpace] = '\0';
+
+    int k = len + 2 * whiteSpace - 1;
+    for(int i = len - 1; i >= 0; --i) {
+        if(s[i] != ' '){
+            s[k--] = s[i];
+        }else {
+            s[k--] = '0';
+            s[k--] = '2';
+            s[k--] = '%';
+        }
+    }
+    return s;
 }
