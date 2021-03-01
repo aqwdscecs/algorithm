@@ -16,4 +16,4 @@
 - [从尾到头打印链表]()
 
 ### 位运算
-- [二进制中1的个数]()
+- [二进制中1的个数](https://github.com/wuye251/algorithm/blob/master/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2021/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.go)
