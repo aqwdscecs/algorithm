@@ -18,10 +18,10 @@
 
 ### 递归
 - [从尾到头打印链表]()
-- __[寻路径]()__
+- __[寻路径](https://github.com/wuye251/algorithm/blob/master/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2021/%E5%89%91%E6%8C%87offer/%E5%AF%BB%E8%B7%AF%E5%BE%84.go)__
 
 ### DFS(深度优先)
-- __[寻路径]()__
+- __[寻路径](https://github.com/wuye251/algorithm/blob/master/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2021/%E5%89%91%E6%8C%87offer/%E5%AF%BB%E8%B7%AF%E5%BE%84.go)__
 
 
 ### 位运算
