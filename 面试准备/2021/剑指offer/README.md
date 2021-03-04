@@ -16,7 +16,7 @@
 - [青蛙跳台阶](https://github.com/wuye251/algorithm/blob/master/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2021/%E5%89%91%E6%8C%87offer/%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6.go)
 
 ### 递归
-- [从尾到头打印链表]()
+- [从尾到头打印链表](https://github.com/wuye251/algorithm/blob/master/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/2021/%E5%89%91%E6%8C%87offer/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.php)
 
 
 
