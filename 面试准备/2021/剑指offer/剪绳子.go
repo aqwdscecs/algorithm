@@ -94,3 +94,19 @@ func cuttingRope(n int) int {
 
 }
 
+
+/*剪绳子 大数情况下处理*/
+func cuttingRope(n int) int {
+    if n<=3{
+        return n-1
+    }
+    // n = 3a + b
+    res:=1
+    // b 等于4的时候可以直接乘4，所以写大于4
+    for n>4{
+        res=res*3%1000000007
+        n-=3
+    }
+    // 最后结果只会剩下2,3,4 （能进循环的最小值是5）所以直接乘以n再取余1000000007
+    return res*n%1000000007
+}
